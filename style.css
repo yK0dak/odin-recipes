@@ -1,0 +1,52 @@
+* {
+    font-family: monospace
+}
+
+div,
+p,
+h2,
+h3,
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainpage.header {
+    font-size: 30px;
+    background-color: rgb(150, 0, 130);
+}
+
+.mainpage {
+    background-color: red;
+    font-size: small;
+}
+
+.explanation {
+    font-size: x-small;
+}
+
+.continents {
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+
+#europe {
+    background-color: blue;
+    color: rgb(177, 197, 0)
+}
+
+#south-america {
+    background-color: rgb(124, 0, 226);
+}
+
+#africa {
+    background-color: chocolate;
+}
+
+#asia {
+    background-color: yellow;
+}
+
+.recipes {
+    text-align: center;
+}
